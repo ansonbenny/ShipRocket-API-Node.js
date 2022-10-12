@@ -20,6 +20,7 @@ For Order And Check Availability From Node.js Change Following Data In routers/i
 
 #Check Pincode
 
+ ``` 
     auth: {
       email: EMAIL_API, //Enter ShipRocket Api Email
       password: PASSWORD_API, //Enter ShipRocket Api Password
@@ -31,10 +32,13 @@ For Order And Check Availability From Node.js Change Following Data In routers/i
       cod: 1
     }
   })
-<br>
+  
+ ``` 
+ 
 #Order
-<br>
 
+ ``` 
+ 
     auth: {
       email: EMAIL_API, //Enter ShipRocket Api Email
       password: PASSWORD_API, //Enter ShipRocket Api Password
@@ -74,6 +78,7 @@ For Order And Check Availability From Node.js Change Following Data In routers/i
       "height": 20,
       "weight": 2.5
     }})
-  
+    
+   ``` 
   
   <h6>npm start Enter This Command On Terminal For Start</h6>
