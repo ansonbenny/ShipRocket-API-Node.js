@@ -18,8 +18,6 @@ npm install
 
 For Order And Check Availability From Node.js Change Following Data In routers/index.js
 
-<p>
-
 #Check Pincode
 
     auth: {
@@ -78,6 +76,5 @@ For Order And Check Availability From Node.js Change Following Data In routers/i
     }
   })
   
-  </p>
   
   <h6>npm start Enter This Command On Terminal For Start</h6>
