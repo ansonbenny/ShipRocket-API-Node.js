@@ -73,8 +73,7 @@ For Order And Check Availability From Node.js Change Following Data In routers/i
       "breadth": 15,
       "height": 20,
       "weight": 2.5
-    }
-  })
+    }})
   
   
   <h6>npm start Enter This Command On Terminal For Start</h6>
